@@ -1,2 +1,2 @@
 This is a simple Stopwatch Web Application.
-I've used HTML,CSS & Javascript 
+By implementing functions for starting, pausing & resetting the stopwatch.
